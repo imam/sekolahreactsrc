@@ -6,7 +6,9 @@
     "babel-preset-react": "^6.24.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.1",
     "react-youtube": "^7.5.0",
+    "recompose": "^0.26.0",
     "webpack": "^3.10.0"
   }
 }
