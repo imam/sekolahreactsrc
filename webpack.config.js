@@ -9,7 +9,8 @@ const config = {
 		]
 	},
 	entry: {
-		apaitureact2: './src/apa-itu-react-2.jsx'
+		apaitureact2: './src/apa-itu-react-2.jsx',
+		youtube: './src/react-youtube.jsx'
 	},
 	output: {
 		filename: '[name].js',
